@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.form-login{
+    min-height: 75vh;
+}
+.lbutton{
+    color: white;
+    background-color: #E33315;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    padding: 5px 10px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}

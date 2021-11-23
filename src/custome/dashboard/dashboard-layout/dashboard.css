@@ -1,0 +1,15 @@
+.link{
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.logoutbtn{
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 0;
+}
